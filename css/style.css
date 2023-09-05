@@ -568,7 +568,7 @@ li{
 }
 .mall-item .see-more{
   position: absolute;
-  margin:-260px 0 0 827px;
+  margin:-270px 0 0 863px;
   filter: drop-shadow(0 0 0.75rem var(--background-button));
 }
 .items-section .see-more{
